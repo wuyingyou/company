@@ -1,0 +1,29 @@
+.qq{
+    color: rgb(212, 130, 201);
+}
+
+.wechat{
+    color: rgb(180, 127, 130);
+}
+
+.thBorder{
+    vertical-align: baseline;
+    padding: 5px 15px 5px 6px;
+    background-color: #3F3F3F;
+    border: 1px solid #3F3F3F;
+    text-align: left;
+    color: #fff;
+}
+
+.tdBorder{
+    vertical-align: text-top;
+    padding: 6px 15px 6px 6px;
+    border: 1px solid #aaa;
+}
+
+.tableBorder{
+    margin-top: 15px;
+    border-collapse: collapse;
+    border: 1px solid #aaa;
+    width: 100%;
+}
